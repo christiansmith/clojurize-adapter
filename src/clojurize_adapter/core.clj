@@ -1,0 +1,1 @@
+(ns clojurize-adapter.core)
