@@ -1,17 +1,11 @@
 # clojurize-adapter
 
-FIXME: write description
-
-## Usage
-
-FIXME: write
-
-## Installation
-
-FIXME: write
+This repository will be a starter kit for writing database libs that implement the Clojurize protocol. 
+Nothing to see here at the moment. Learn about Clojurize here:
+http://anvil.io/2010/10/25/clojurize-the-data-not-the-database.html
 
 ## License
 
-Copyright (C) 2010 FIXME
+Copyright (C) 2010 Christian Smith
 
 Distributed under the Eclipse Public License, the same as Clojure.

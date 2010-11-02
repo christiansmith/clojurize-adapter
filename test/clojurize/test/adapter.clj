@@ -1,5 +1,5 @@
-(ns clojurize-adapter.test.core
-  (:use [clojurize-adapter.core] :reload)
+(ns clojurize.test.adapter
+  (:use [clojurize.adapter] :reload)
   (:use [clojure.test]))
 
 (deftest replace-me ;; FIXME: write
